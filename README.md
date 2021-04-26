@@ -1,7 +1,8 @@
 # yakubenko_step_ham.github.io
 
 
-Сверстать макет. Подключить динамические элементы (см. ниже)
+Сверстать макет https://www.figma.com/file/Do0TLndoEjGwuF9Ri7UHol/The-Ham-Step-Project?node-id=0%3A1.
+Подключить динамические элементы (см. ниже)
 
 Технические требования к верстке:
 
